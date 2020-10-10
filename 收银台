@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-10-10T09:00:32.405Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.7.9" etag="jK_1upXnpXunhAL2MPer" type="github"><diagram id="fGrAm4MonBlFyeFXpxE0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-10T09:15:09.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Aqr1KcaiJAzUQfEjE5Rb" version="13.7.9" type="github">
+  <diagram id="fGrAm4MonBlFyeFXpxE0" name="Page-1">
+    <mxGraphModel dx="1426" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kmQhNNxPDbSgubRh0y3y-2" value="快速上线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="336" width="74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kmQhNNxPDbSgubRh0y3y-3" value="简易实现" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="226" y="438" width="74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kmQhNNxPDbSgubRh0y3y-4" value="系统腐坏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="459" y="441" width="74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kmQhNNxPDbSgubRh0y3y-5" value="" style="endArrow=classic;html=1;strokeColor=#97D077;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="376" y="360" as="sourcePoint" />
+            <mxPoint x="305" y="453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmQhNNxPDbSgubRh0y3y-6" value="" style="endArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="318" y="452" as="sourcePoint" />
+            <mxPoint x="442" y="452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmQhNNxPDbSgubRh0y3y-7" value="" style="endArrow=classic;html=1;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="447" y="444" as="sourcePoint" />
+            <mxPoint x="382" y="361" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmQhNNxPDbSgubRh0y3y-11" value="？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="421" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kmQhNNxPDbSgubRh0y3y-12" value="" style="endArrow=classic;html=1;strokeColor=#A50040;fillColor=#d80073;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449" y="507" as="sourcePoint" />
+            <mxPoint x="449" y="463" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmQhNNxPDbSgubRh0y3y-13" value="不合格的系统交接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="449" y="486" width="132" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
