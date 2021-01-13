@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T03:28:38.070Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Jd0wUZeJzMfZO7qNxLvy" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-13T03:36:14.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="IXybJsd3RtuD7AZtXHhD" version="14.1.8" type="github">
   <diagram id="3k66Botpmn52R-iR3lJg" name="Page-1">
     <mxGraphModel dx="1251" dy="685" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -124,11 +124,11 @@
         <mxCell id="I-82hpHdW31JX-K5-PDE-43" value="DisableChannelActor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1053" y="628" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-82hpHdW31JX-K5-PDE-44" value="&amp;lt;=" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1318" y="230.5" width="120" height="60" as="geometry" />
+        <mxCell id="I-82hpHdW31JX-K5-PDE-44" value="LessOrEqual &amp;lt;=" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1451" y="241.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-82hpHdW31JX-K5-PDE-46" value="==" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1316" y="151" width="120" height="60" as="geometry" />
+        <mxCell id="I-82hpHdW31JX-K5-PDE-46" value="EQUAL ==" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1449" y="162" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-82hpHdW31JX-K5-PDE-51" value="" style="endArrow=classic;html=1;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -142,18 +142,6 @@
         <mxCell id="I-82hpHdW31JX-K5-PDE-57" value="Compiler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="556" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-82hpHdW31JX-K5-PDE-63" value="Computer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="851" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I-82hpHdW31JX-K5-PDE-64" value="FromComputer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="907" y="846" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I-82hpHdW31JX-K5-PDE-65" value="AppversionComputer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="907" y="768" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I-82hpHdW31JX-K5-PDE-66" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 9.0pt&quot;&gt;&lt;span style=&quot;color: #067d17&quot;&gt;UnionpaywebappComputer&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="907" y="924" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="I-82hpHdW31JX-K5-PDE-68" value="rule_content" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="177" width="40" height="20" as="geometry" />
         </mxCell>
@@ -161,25 +149,31 @@
           <mxGeometry x="976" y="528" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I-82hpHdW31JX-K5-PDE-72" value="DefultCompator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1133" y="309" width="120" height="60" as="geometry" />
+          <mxGeometry x="1213" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-82hpHdW31JX-K5-PDE-73" value="Comparator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="948" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-82hpHdW31JX-K5-PDE-74" value="&amp;gt;=" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1318" y="321" width="120" height="60" as="geometry" />
+        <mxCell id="I-82hpHdW31JX-K5-PDE-74" value="moreOrEqual &amp;gt;=" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1451" y="332" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-82hpHdW31JX-K5-PDE-75" value="&amp;gt;=" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1318" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="I-82hpHdW31JX-K5-PDE-75" value="More &amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1451" y="411" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-82hpHdW31JX-K5-PDE-76" value="in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1318" y="479" width="120" height="60" as="geometry" />
+        <mxCell id="I-82hpHdW31JX-K5-PDE-76" value="In" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1451" y="575" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-82hpHdW31JX-K5-PDE-77" value="not in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1318" y="558" width="120" height="60" as="geometry" />
+        <mxCell id="I-82hpHdW31JX-K5-PDE-77" value="NotIn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1451" y="654" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-82hpHdW31JX-K5-PDE-78" value="AppversionCompator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="1215" y="431" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-82hpHdW31JX-K5-PDE-79" value="Less &amp;lt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1451" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I-82hpHdW31JX-K5-PDE-80" value="compare(Object orgin,Object target,String operator)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="859" y="336" width="310" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
