@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T06:18:00.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zr1kUIv7t4bQQzARZBEe" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T08:53:17.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="1IjaKJCWBGu5jHOKsT8S" version="14.1.8" type="github">
   <diagram id="3k66Botpmn52R-iR3lJg" name="Page-1">
     <mxGraphModel dx="1251" dy="1512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="I-82hpHdW31JX-K5-PDE-2" value="RuleRepositiry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="357" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-82hpHdW31JX-K5-PDE-3" value="Rule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I-82hpHdW31JX-K5-PDE-3" value="RuleRunnable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="357" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-82hpHdW31JX-K5-PDE-4" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I-82hpHdW31JX-K5-PDE-2" target="I-82hpHdW31JX-K5-PDE-1">
@@ -145,7 +145,7 @@
         <mxCell id="I-82hpHdW31JX-K5-PDE-83" value="Acaror" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="497" y="440" width="171" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="I-82hpHdW31JX-K5-PDE-84" value="&lt;span&gt;List&amp;lt;Rule&amp;gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="I-82hpHdW31JX-K5-PDE-84" value="&lt;span&gt;List&amp;lt;RuleRunnable&amp;gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="541" y="110" width="41" height="21" as="geometry" />
         </mxCell>
         <mxCell id="I-82hpHdW31JX-K5-PDE-85" value="generate&lt;br&gt;SelfDefinedRuleExecutor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
