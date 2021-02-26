@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T09:32:34.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="3kHqLwabwKum4ceYoQRy" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T09:33:02.160Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="7_bgUBHvCz8kzZaybxJI" version="14.1.9" type="github">
   <diagram id="nT12J8QmN1ViyjPej7tU" name="Page-1">
     <mxGraphModel dx="2123" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -218,21 +218,21 @@
           <mxGeometry x="-40" y="1270" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-104" value="渠道列表" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="1390" width="100" height="40" as="geometry" />
+          <mxGeometry x="-20" y="1360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-106" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nnIew8va9llvvNG5F_Xm-105" target="nnIew8va9llvvNG5F_Xm-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-105" value="渠道默认选中规则" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1440" width="100" height="40" as="geometry" />
+          <mxGeometry x="200" y="1410" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-108" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" target="nnIew8va9llvvNG5F_Xm-104">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="1530" as="sourcePoint" />
+            <mxPoint x="200" y="1500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-107" value="渠道排序规则" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1510" width="100" height="40" as="geometry" />
+          <mxGeometry x="200" y="1480" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
