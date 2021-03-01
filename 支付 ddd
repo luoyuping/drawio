@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T03:53:51.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="-kJQfYysYq21qaj4ADin" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T03:55:36.863Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="fE1seJY5hbaMraob5uXY" version="14.1.9" type="github">
   <diagram id="nT12J8QmN1ViyjPej7tU" name="Page-1">
     <mxGraphModel dx="2505" dy="858" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -544,7 +544,7 @@
           <mxGeometry x="375" y="2400" width="103" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-241" value="渠道渲染" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-84" y="2405" width="103" height="60" as="geometry" />
+          <mxGeometry x="-90" y="2395" width="103" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-242" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-222" y="2755" width="185" height="108" as="geometry" />
@@ -568,14 +568,14 @@
           <mxGeometry x="659" y="2593" width="103" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-250" value="query&amp;nbsp; last pay ChannelDO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-414.5" y="2703" width="169" height="20" as="geometry" />
+          <mxGeometry x="-352" y="2707" width="169" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-251" value="核心收款" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-222" y="2885" width="181" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-256" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-138" y="2893" as="sourcePoint" />
+            <mxPoint x="-138" y="2884" as="sourcePoint" />
             <mxPoint x="-138" y="2843" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -596,6 +596,9 @@
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-263" value="query&amp;nbsp; withhold List&amp;lt;PayDetailVO&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="672.5" y="2337" width="169" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nnIew8va9llvvNG5F_Xm-265" value="免密组合支付" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="617" y="2403" width="103" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
