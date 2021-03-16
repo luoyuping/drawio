@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T03:33:19.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="LVk-i0VrKepp4WyrS2TK" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T03:35:27.991Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Rbhksf9dZj6nJv-KD6EF" version="14.4.4" type="github">
   <diagram id="nT12J8QmN1ViyjPej7tU" name="Page-1">
     <mxGraphModel dx="2593" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -330,7 +330,7 @@
         <mxCell id="nnIew8va9llvvNG5F_Xm-156" value="渠道" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-380" y="1360" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nnIew8va9llvvNG5F_Xm-159" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" parent="1" source="nnIew8va9llvvNG5F_Xm-157" target="nnIew8va9llvvNG5F_Xm-156" edge="1">
+        <mxCell id="nnIew8va9llvvNG5F_Xm-159" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" parent="1" source="nnIew8va9llvvNG5F_Xm-157" target="nnIew8va9llvvNG5F_Xm-156" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-157" value="渠道本身可见规则" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -622,7 +622,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZGm5VRw1HYs_5dtROAM8-5" value="渠道本身可用规则" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-237" y="1407" width="140" height="40" as="geometry" />
+          <mxGeometry x="-176" y="1406" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZGm5VRw1HYs_5dtROAM8-6" value="标签" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-33.5" y="1823" width="100" height="40" as="geometry" />
@@ -646,6 +646,17 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="729.9999999999795" y="1835" as="sourcePoint" />
             <mxPoint x="639.9999999999995" y="1694" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZGm5VRw1HYs_5dtROAM8-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ZGm5VRw1HYs_5dtROAM8-5" target="nnIew8va9llvvNG5F_Xm-156">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-226.5" y="1611.9999999999995" as="sourcePoint" />
+            <mxPoint x="-270" y="1390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-227" y="1427" />
+              <mxPoint x="-253" y="1427" />
+              <mxPoint x="-253" y="1380" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
