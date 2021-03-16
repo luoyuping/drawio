@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T07:05:55.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="bv9XS0mGouboNZNIREwL" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T07:08:25.592Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="nUUGobDKY7BiGDwO93Do" version="14.4.4" type="github">
   <diagram id="nT12J8QmN1ViyjPej7tU" name="Page-1">
     <mxGraphModel dx="2593" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
           <mxGeometry x="-16" y="2753" width="693" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-125" value="&lt;h2 class=&quot;wordbook-js&quot; style=&quot;margin: 23px 10px 25px 5px ; padding: 0px ; position: relative ; zoom: 1 ; color: rgb(51 , 51 , 51) ; font-size: 24px ; font-family: &amp;#34;lucida bright&amp;#34; , &amp;#34;pingfang sc&amp;#34;&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;repository&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="2793" width="40" height="20" as="geometry" />
+          <mxGeometry x="-374" y="2793" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-128" value="&lt;h2 class=&quot;wordbook-js&quot; style=&quot;margin: 23px 10px 25px 5px ; padding: 0px ; position: relative ; zoom: 1 ; color: rgb(51 , 51 , 51) ; font-size: 24px ; font-family: &amp;#34;lucida bright&amp;#34; , &amp;#34;pingfang sc&amp;#34;&quot;&gt;application&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-342" y="2411" width="40" height="20" as="geometry" />
@@ -453,8 +453,8 @@
             <mxPoint x="139" y="2693" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nnIew8va9llvvNG5F_Xm-199" value="global_filter" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-177" y="2593" width="80" height="60" as="geometry" />
+        <mxCell id="nnIew8va9llvvNG5F_Xm-199" value="channel_filter" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-177" y="2593" width="178" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-200" value="预付渠道" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="605" y="2793" width="65" height="50" as="geometry" />
@@ -471,14 +471,11 @@
         <mxCell id="nnIew8va9llvvNG5F_Xm-204" value="回调上下文" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="187" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nnIew8va9llvvNG5F_Xm-206" value="biz_filter" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-55" y="2595" width="87" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-207" value="channel_degrade" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="219" y="2595" width="103" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-212" value="&lt;h2 class=&quot;wordbook-js&quot; style=&quot;margin: 23px 10px 25px 5px ; padding: 0px ; position: relative ; zoom: 1 ; color: rgb(51 , 51 , 51) ; font-size: 24px ; font-family: &amp;#34;lucida bright&amp;#34; , &amp;#34;pingfang sc&amp;#34;&quot;&gt;engine&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-335" y="2603" width="40" height="20" as="geometry" />
+          <mxGeometry x="-364" y="2603" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-219" value="default_channel" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="83" y="2595" width="95" height="60" as="geometry" />
@@ -494,14 +491,14 @@
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-224" value="" style="endArrow=classic;html=1;dashed=1;entryX=0.46;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-173.54000000000002" y="2678.53" as="sourcePoint" />
-            <mxPoint x="-174.00000000000006" y="2753" as="targetPoint" />
+            <mxPoint x="-161.54000000000002" y="2678.53" as="sourcePoint" />
+            <mxPoint x="-162.00000000000006" y="2753" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-225" value="" style="endArrow=classic;html=1;dashed=1;entryX=0.46;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-100.25000000000003" y="2678.53" as="sourcePoint" />
-            <mxPoint x="-100.71000000000006" y="2753" as="targetPoint" />
+            <mxPoint x="-109.54000000000002" y="2678.53" as="sourcePoint" />
+            <mxPoint x="-110.00000000000006" y="2753" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-226" value="出行老收银台" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
