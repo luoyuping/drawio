@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T07:09:53.276Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="ozPw5x_PVzb00SfcrXMY" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T07:10:53.370Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="lnuN-m3mpSnV71uYy-iD" version="14.4.4" type="github">
   <diagram id="nT12J8QmN1ViyjPej7tU" name="Page-1">
     <mxGraphModel dx="2593" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -489,18 +489,6 @@
             <mxPoint x="189.28999999999996" y="2569.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nnIew8va9llvvNG5F_Xm-224" value="" style="endArrow=classic;html=1;dashed=1;entryX=0.46;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-161.54000000000002" y="2678.53" as="sourcePoint" />
-            <mxPoint x="-162.00000000000006" y="2753" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nnIew8va9llvvNG5F_Xm-225" value="" style="endArrow=classic;html=1;dashed=1;entryX=0.46;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-109.54000000000002" y="2678.53" as="sourcePoint" />
-            <mxPoint x="-110.00000000000006" y="2753" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-226" value="出行老收银台" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-309" y="2222" width="89" height="60" as="geometry" />
         </mxCell>
@@ -563,9 +551,6 @@
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-249" value="channel_promotion" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="659" y="2593" width="119" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nnIew8va9llvvNG5F_Xm-250" value="query&amp;nbsp; last_pay ChannelDO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-352" y="2707" width="169" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nnIew8va9llvvNG5F_Xm-251" value="核心收款" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-222" y="2885" width="181" height="50" as="geometry" />
