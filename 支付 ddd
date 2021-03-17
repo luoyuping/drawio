@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T07:10:53.370Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="lnuN-m3mpSnV71uYy-iD" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T02:31:29.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="uhoiymgwv8jNd_y_pZXM" version="14.4.4" type="github">
   <diagram id="nT12J8QmN1ViyjPej7tU" name="Page-1">
     <mxGraphModel dx="2593" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -640,6 +640,24 @@
         </mxCell>
         <mxCell id="ZGm5VRw1HYs_5dtROAM8-16" value="出行-新收银台支付页" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="63" y="2222" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGm5VRw1HYs_5dtROAM8-20" value="互斥渠道" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1097" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGm5VRw1HYs_5dtROAM8-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGm5VRw1HYs_5dtROAM8-20" target="nnIew8va9llvvNG5F_Xm-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309.99999999999955" y="890" as="targetPoint" />
+            <mxPoint x="449.99999999999955" y="1050" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZGm5VRw1HYs_5dtROAM8-22" value="渠道权重" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGm5VRw1HYs_5dtROAM8-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ZGm5VRw1HYs_5dtROAM8-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="274" y="895" as="targetPoint" />
+            <mxPoint x="419.99999999999955" y="1189" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
