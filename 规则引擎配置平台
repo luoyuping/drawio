@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T12:42:49.034Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="7wZVbwPqSnI3EE1rnN2y" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T12:44:05.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="4gPn0DU3_-CqfcTrp4Hp" version="14.6.12" type="github">
   <diagram id="28vbHK3-yKd2UwjR3CUX" name="Page-1">
     <mxGraphModel dx="2037" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,10 +25,10 @@
         <mxCell id="sEucAjKEI4-Pw1Df_sdC-5" value="&lt;font color=&quot;#009900&quot;&gt;查询渠道组合&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="210" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sEucAjKEI4-Pw1Df_sdC-6" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;渠道核心&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="440" width="60" height="20" as="geometry" />
+        <mxCell id="sEucAjKEI4-Pw1Df_sdC-6" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;渠道核心&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="450" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sEucAjKEI4-Pw1Df_sdC-8" value="规则引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="sEucAjKEI4-Pw1Df_sdC-8" value="规则执行引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sEucAjKEI4-Pw1Df_sdC-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -37,8 +37,8 @@
         <mxCell id="sEucAjKEI4-Pw1Df_sdC-10" value="&lt;font color=&quot;#009900&quot;&gt;灵渠App&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sEucAjKEI4-Pw1Df_sdC-12" value="&lt;font face=&quot;helvetica&quot;&gt;规则引擎配置平台&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="440" width="100" height="20" as="geometry" />
+        <mxCell id="sEucAjKEI4-Pw1Df_sdC-12" value="&lt;font face=&quot;helvetica&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;规则引擎配置平台&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sEucAjKEI4-Pw1Df_sdC-14" value="&lt;font color=&quot;#b5739d&quot;&gt;2 规则创建/修改&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="210" width="100" height="20" as="geometry" />
