@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T10:24:42.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="MBhEhrHlf9gCQUdLnJnT" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T10:24:52.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="SC2IA_uj9h1MArA5e7j3" version="14.6.12" type="github">
   <diagram id="28vbHK3-yKd2UwjR3CUX" name="Page-1">
     <mxGraphModel dx="2381" dy="925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -460,9 +460,6 @@
         </mxCell>
         <mxCell id="bSykT5nWk-Dx9-IWFa7_-175" value="调用apollo创建失败" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1285" y="705" width="131" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="rabhO4LD9Q0_-C2DEII0-24" value="方案3-灵渠方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1338" y="527" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rabhO4LD9Q0_-C2DEII0-26" value="调用apollo创建成功" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1443" y="605" width="131" height="20" as="geometry" />
