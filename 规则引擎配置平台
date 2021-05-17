@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T13:06:12.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="vTRL3CU5zzPu9HZyUjzk" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T06:26:55.060Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="7OwE3IdsdW443vSFQry7" version="14.6.12" type="github">
   <diagram id="28vbHK3-yKd2UwjR3CUX" name="Page-1">
     <mxGraphModel dx="2381" dy="925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,9 +296,6 @@
         </mxCell>
         <mxCell id="bSykT5nWk-Dx9-IWFa7_-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="1140" width="650" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="bSykT5nWk-Dx9-IWFa7_-96" value="规则删除状态机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="1120" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bSykT5nWk-Dx9-IWFa7_-97" value="待发布" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="730" y="1190" width="60" height="60" as="geometry" />
@@ -661,6 +658,39 @@
             <mxPoint x="888" y="1250" as="sourcePoint" />
             <mxPoint x="888" y="1290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IsXkaCMI-i1Lf9XuQ4ai-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="477" y="1395" width="650" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="IsXkaCMI-i1Lf9XuQ4ai-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;" edge="1" parent="1" source="IsXkaCMI-i1Lf9XuQ4ai-61" target="IsXkaCMI-i1Lf9XuQ4ai-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IsXkaCMI-i1Lf9XuQ4ai-61" value="发布中" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="857" y="1445" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IsXkaCMI-i1Lf9XuQ4ai-63" value="" style="endArrow=classic;html=1;dashed=1;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IsXkaCMI-i1Lf9XuQ4ai-68" target="IsXkaCMI-i1Lf9XuQ4ai-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="787" y="1475" as="sourcePoint" />
+            <mxPoint x="987" y="1465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsXkaCMI-i1Lf9XuQ4ai-65" value="规则删除" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="491" y="1425" width="97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IsXkaCMI-i1Lf9XuQ4ai-66" value="已删除" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="976" y="1445" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IsXkaCMI-i1Lf9XuQ4ai-68" value="X(任意)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="567" y="1445" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IsXkaCMI-i1Lf9XuQ4ai-69" value="开始发布" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="789" y="1436" width="71" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IsXkaCMI-i1Lf9XuQ4ai-70" value="审批通过" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="647" y="1445" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IsXkaCMI-i1Lf9XuQ4ai-72" value="场景3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="489" y="1398" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
